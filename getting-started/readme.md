@@ -4,7 +4,7 @@ This section introduces you to some of the common terms and concepts of Data Eng
 
 ## Table of Contents
 
-### [1. Common Terms](/getting-started/common-terms)
+### [1. Core Concepts](/getting-started/core-concepts)
 
 Terms and concepts that are commonly used in Data Engineering.
 
