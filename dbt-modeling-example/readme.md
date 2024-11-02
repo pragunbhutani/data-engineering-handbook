@@ -19,9 +19,9 @@ Finally, we'll create a mart layer that aggregates data into Gross Merchandise V
 
 The chapters are to be read in order as they build on each other.
 
-1. [Source Data](/analytics-engineering/dbt-modeling-example/1-source-data.md)
-2. [Staging Layer](/analytics-engineering/dbt-modeling-example/2-staging-layer.md)
-3. [Snapshots](/analytics-engineering/dbt-modeling-example/3-snapshots.md)
-4. [Dimension Tables](/analytics-engineering/dbt-modeling-example/4-dimension-tables.md)
-5. [Fact Tables](/analytics-engineering/dbt-modeling-example/5-fact-tables.md)
-6. [Conclusion](/analytics-engineering/dbt-modeling-example/6-conclusion.md)
+1. [Source Data](/dbt-modeling-example/1-source-data.md)
+2. [Staging Layer](/dbt-modeling-example/2-staging-layer.md)
+3. [Snapshots](/dbt-modeling-example/3-snapshots.md)
+4. [Dimension Tables](/dbt-modeling-example/4-dimension-tables.md)
+5. [Fact Tables](/dbt-modeling-example/5-fact-tables.md)
+6. [Conclusion](/dbt-modeling-example/6-conclusion.md)

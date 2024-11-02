@@ -8,7 +8,18 @@ It talks about data infrastructure, product analytics, analytics engineering, pr
 
 ## Table of Contents
 
-1. [Getting Started with Data Engineering](/getting-started)
-2. [Analytics Engineering](/analytics-engineering)
-3. [Product Analytics](/product-analytics)
-4. [Data Infrastructure](/data-infrastructure)
+### [1. Core Concepts](/core-concepts/)
+
+A glossary of terms and concepts that are commonly used in the data world.
+
+### [2. Good Conventions](/good-conventions/)
+
+Coding standards, best practices and design principles for building warehouses, pipelines and data products that are easy to understand and maintain.
+
+### [3. dbt Modeling Example](/dbt-modeling-example/)
+
+A step-by-step guide to building a Kimball-style data warehouse for an e-commerce store using dbt.
+
+### [4. Startup Data Story](/startup-data-story/)
+
+A fictional startup called “Jaffle Shop” is used to illustrate how data can be used to make decisions in a business.
